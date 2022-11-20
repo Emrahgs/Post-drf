@@ -1,10 +1,10 @@
 # Post-drf
 
 Permission and Custom permission <br/>
-JWT token authentication
-Viewsets and Routers
-API schema and documentation (OpenAPI and CoreAPI)
-Filters and Search
-Image uploading/handling
-Social login (Facebook)
-Testing
+JWT token authentication <br/>
+Viewsets and Routers <br/>
+API schema and documentation (OpenAPI and CoreAPI) <br/>
+Filters and Search <br/>
+Image uploading/handling <br/>
+Social login (Facebook) <br/>
+Testing <br/>
